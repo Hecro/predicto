@@ -12,4 +12,4 @@ Projeto desenvolvido durante a Maratona Explorer 1.0, da [Rocketseat 💜](https
 
 
 
-Por enquanto esse projeto só conta com o dark mode e o RNG, estou estudando para melhorar e adicionar alguma função nova, um changer de temas por exemplo seria uma das adições.
+Por enquanto esse projeto só conta com o RNG, estou estudando para melhorar e adicionar alguma função nova, um changer de temas por exemplo seria uma das adições.
